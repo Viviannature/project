@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hobbies and Interests</title>
+</head>
+<body>
+
+    <header>
+        <h1>My Hobbies and Interests</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#hobbies">Hobbies</a></li>
+            <li><a href="#interests">Interests</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="hobbies">
+            <h2>Hobbies</h2>
+            <ul>
+                <li>Reading</li>
+                <li>Photography</li>
+                <li>Dancing</li>
+            </ul>
+        </section>
+
+        <section id="interests">
+            <h2>Interests</h2>
+            <ul>
+                <li>Technology</li>
+                <li>Music</li>
+                <li>Traveling</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 My Hobbies and Interests</p>
+    </footer>
+
+</body>
+</html>
